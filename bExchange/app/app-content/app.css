@@ -1,0 +1,11 @@
+﻿body {
+    padding: 20px 0;
+}
+
+.flash-message {
+    margin-top: 20px;
+}
+.jumbotron {
+    background-color:#8A2BE2 !important;
+    text-align:center;
+}
