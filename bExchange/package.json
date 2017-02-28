@@ -1,10 +1,9 @@
 {
-    "name": "mean-stack-registration-login-example",
+    "name": "bExchange",
     "version": "1.0.0",
-    "description": "MEAN Stack User Registration and Login Example Application",
+    "description": "CS298 Project",
     "repository": {
-        "type": "git",
-        "url": "https://github.com/cornflourblue/mean-stack-registration-login-example.git"
+        "type": "git"
     },
     "dependencies": {
         "bcryptjs": "^2.1.0",
